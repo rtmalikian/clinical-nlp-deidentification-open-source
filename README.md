@@ -1,3 +1,13 @@
+# 📄 Download the full article — PDF
+
+[![Download PDF](https://img.shields.io/badge/Download-Full%20Article%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rtmalikian/clinical-nlp-deidentification-open-source/raw/main/paper.pdf)
+
+### 👉 [**Click here to download the PDF**](https://github.com/rtmalikian/clinical-nlp-deidentification-open-source/raw/main/paper.pdf)
+
+*One click — no sign-up, no paywall. The full text is also embedded in this README below.*
+
+---
+
 # Guarding the Clinical Narrative: A Practitioner-Contributor's Retrospective Analysis of Open-Source Contributions to Clinical Natural Language Processing and Health-Data De-identification (2025-2026)
 
 **Author:** Raphael T. Malikian, MBBS BSc (Hons), Independent Researcher, Palmdale, California, USA
